@@ -1,19 +1,19 @@
-# 👋 Hi, I’m Atchaya
+👋 Hi, I'm Atchaya!
+👀 Interests
+I'm deeply passionate about bioinformatics, data analysis, and computational biology. I enjoy exploring the intersection of biology, technology, and AI-driven research, particularly in genomics, drug discovery, and predictive analytics.
 
-## 👀 Interests
-I am passionate about bioinformatics, data analysis, and exploring the intersections of biology and technology.
+🌱 Currently Learning
+I'm continuously expanding my expertise in NGS data analysis, machine learning applications in bioinformatics, and multi-omics approaches. I’m also exploring advanced computational techniques for biomedical research.
 
-## 🌱 Currently Learning
-I'm continuously learning and expanding my knowledge in data science and analytics, particularly in the context of bioinformatics. I'm also diving deeper into and exploring machine-learning applications in biological research.
+💡 Research & Collaboration
+I'm open to collaborating on projects related to:
+🔬 Bioinformatics research (genomics, transcriptomics, and structural bioinformatics)
+📊 Data-driven life sciences analysis (predictive modeling & disease classification)
+🧬 Computational biology & systems biology
+💻 AI/ML applications in healthcare & biotechnology
 
-## 💞️ Collaboration Opportunities
-I'm looking to collaborate on projects involving bioinformatics research, data analysis in life sciences, predictive analysis, disease classification, and computational biology. I'm also open to collaborative opportunities in data-driven projects related to health and biotechnology.
+If you're working on an exciting research project, feel free to connect! Let's learn together :)
 
-## 📫 How to Reach Me
-You can reach me via [LinkedIn](www.linkedin.com/in/atchayabv) or email me at atchayaramb@gmail.com
-
-## 😄 Pronouns
-She/Her
-
-## ⚡ Fun Fact
-When I'm not delving into research, I love exploring new AI tools and techniques, as well as sharing my findings through presentations and collaborations!
+📫 Let's Connect
+🔗 LinkedIn
+📧 atchayaramb@gmail.com
